@@ -1,0 +1,24 @@
+/* WenYue Guti FangSong F */
+@font-face {
+  font-family: 'WenYue Guti FangSong F';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://wenyue-restricted.oss-cn-hangzhou.aliyuncs.com/downloads/fonts/WenYue_GuTiFangSong_F.otf) format('otf');
+}
+/* Elstob */
+@font-face {
+  font-family: 'Elstob';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/psb1558/Elstob-font/blob/master/webfiles/Elstob.woff2) format('woff2');
+}
+/* FZFangSong */
+@font-face {
+  font-family: 'FZFangSong';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://github.com/wordshub/free-font/raw/master/assets/font/%E4%B8%AD%E6%96%87/%E6%96%B9%E6%AD%A3%E5%AD%97%E4%BD%93%E7%B3%BB%E5%88%97/%E6%96%B9%E6%AD%A3%E4%BB%BF%E5%AE%8B%E7%AE%80%E4%BD%93.ttf) format('ttf');
+}
